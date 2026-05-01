@@ -1,0 +1,6 @@
+{
+  "name": "WinGen Terminal",
+  "description": "A Windows-styled terminal for easy code generation using Gemini AI. Use /generate code (prompt) to start.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Code Generation"]
+}
